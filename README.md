@@ -6,7 +6,7 @@ Voici ma solution au challenge : my gallery de Dev challenge.
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/my_gallery/
 
 ## Projet développé avec
 
