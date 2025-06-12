@@ -1,5 +1,7 @@
 ## MY GALLERY | DEV CHALLENGES
 
+![Design preview for the my gallery project](./img/preview.png)
+
 ## Le Challenge
 
 Voici ma solution au challenge : my gallery de Dev challenge.
